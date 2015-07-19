@@ -1,4 +1,4 @@
-# SanitizeContent
+# SanitizeContent (BROKEN, PLEASE DO NOT USE)
 
 To sanitize model instance attributes before database save into Rails. Iterates through model instance attributes and calls ActionController::Base.helpers.sanitize on each.
 
